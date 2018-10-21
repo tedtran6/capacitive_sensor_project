@@ -17,6 +17,14 @@ Below are some photos and videos of the build.
 </p>
 <img src = "images/image3.png" width = "400">
 
+settings for Hairless MIDI and Loopbe
+
+<p float="left">
+  <img src = "images/image3.1.png" width = "600">
+  <img src = "images/image3.2.png" width = "400">
+  <img src = "images/image3.3.png" width = "400">
+</p>
+
 version two:
 
 <p float="left">
