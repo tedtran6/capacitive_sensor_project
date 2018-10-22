@@ -8,7 +8,7 @@ There is cardboard in between the resistors and capacitors because I didn't want
 
 Below are some photos and videos of the build.
 
-**[VIDEO of playing a song in the first version](https://drive.google.com/file/d/1YEL3HLvOCb0wZd_pbSZmtVbuXTWDXZ-J/view?usp=sharing)**
+### **[VIDEO of playing a song in the first version](https://drive.google.com/file/d/1YEL3HLvOCb0wZd_pbSZmtVbuXTWDXZ-J/view?usp=sharing)**
 
 
 <p float="left">
